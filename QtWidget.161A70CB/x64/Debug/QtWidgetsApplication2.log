@@ -1,0 +1,8 @@
+﻿  QtWidgetsApplication2.cpp
+  main.cpp
+C:\Users\floxx\source\repos\QConsole\main.cpp(1,1): warning C4828: The file contains a character starting at offset 0x68d that is illegal in the current source character set (codepage 65001).
+C:\Users\floxx\source\repos\QConsole\main.cpp(1,1): warning C4828: The file contains a character starting at offset 0x7a9 that is illegal in the current source character set (codepage 65001).
+C:\Users\floxx\source\repos\QConsole\main.cpp(1,1): warning C4828: The file contains a character starting at offset 0x85a that is illegal in the current source character set (codepage 65001).
+  qrc_QtWidgetsApplication2.cpp
+  moc_QtWidgetsApplication2.cpp
+  QtWidgetsApplication2.vcxproj -> C:\Users\floxx\Source\Repos\QConsole\x64\Debug\QtWidgetsApplication2.exe
