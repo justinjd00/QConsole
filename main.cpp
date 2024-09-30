@@ -255,7 +255,7 @@ int main(int argc, char* argv[]) {
     loginLayout->addWidget(importCsvButton);
 
     loginTab->setLayout(loginLayout);
-
+     
     // Tabs hinzufügen
     tabWidget->addTab(loginTab, "Login");
     tabWidget->addTab(accsTab, "Accs");
